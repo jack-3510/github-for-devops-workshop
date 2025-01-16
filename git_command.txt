@@ -19,6 +19,24 @@
  history
 
 
+git status
+ git add .
+ git status
+  git commit -m .
+  git status
+  git remote add origin https://github.com/jack-3510/github-for-devops-workshop.git~
+  git remote add origin https://github.com/jack-3510/github-for-devops-workshop.git
+    GIT REMOTE -V
+   GIT REMOTE -v
+ git remote -v
+    git status
+   git push orgin master
+  git push origin master
+  git remote set-url origin http://github-for-devops-token@github.com/jack-3510/github-for-devops-workshop.git 
+  clear
+    git remote -v
+  git push origin master
+ history
 
 
 
