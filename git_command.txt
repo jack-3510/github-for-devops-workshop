@@ -1,0 +1,31 @@
+ git init
+ ls
+ ls -s
+  git status
+ ls
+  ls -a
+  git init
+ clear
+  git status
+   git add testing.py 
+ git status
+  git commit -m testing.py 
+   git status
+  rm testing.py 
+  git status
+ restore testing.py
+  git restore testing.py
+ git status
+ history
+
+
+
+
+
+
+
+ ​​1)git init - initilaize
+ 2)git add . - from untracked to staged
+ 3)git commit -m " " - from staged to tracked
+ 4)git restore filename - to restore the deleted file from vcs
+ 5)git status - to check status
